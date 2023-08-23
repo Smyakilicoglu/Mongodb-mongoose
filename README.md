@@ -17,7 +17,7 @@
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
     </clipboard-copy>
-  </div>
+  </div></div>
   </li>
   <li>İsteğe göre ya bilgisayarın terminalinden ya da MongoDB'nin kendi uygulamasından komutlar verilebilir.
       <ul>
@@ -30,7 +30,7 @@
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
     </clipboard-copy>
-  </div>
+  </div></div>
       Bundan sonra terminale yazılan her şey shell olarak çalışır.</li>
         <li>Uygulamadan yazmak istersek aşağıda görseli olan alanı "Connect" tuşuna basarak çalıştırabilir uygulamanın en altında bulunan "_MONGOSH" alanına da komutlarımızı yazabiliriz.</li>
         <br><img src="https://www.mongodb.com/docs/compass/beta/images/compass/favorite-button-connect.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 1548px; height: 258px; margin: 72.5px 0px; width: 482px;" alt="Favorite Connections — MongoDB Compass" jsname="kn3ccd" aria-hidden="false">
@@ -50,7 +50,8 @@
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
     </clipboard-copy>
-  </div></li>
+  </div></div>
+  </li>
   <li>Dosyanın içeriside npmi aktif etmeliyiz:<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>npm init -y</pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="npm init -y" tabindex="0" role="button" style="display: inherit;">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
@@ -60,7 +61,8 @@
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
     </clipboard-copy>
-  </div></li>
+  </div></div>
+  </li>
   <li>Son olarak mongoose modülünü eklemek için terminale aşağıdaki kelimeleri yazmamız yeterli olacaktır:<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>npm i mongoose</pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="npm i mongoose" tabindex="0" role="button" style="display: inherit;">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
@@ -70,6 +72,6 @@
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
     </clipboard-copy>
-  </div></</li>
+  </div></div></li>
 </ul>
 <p>Devamında kodları yazmak için linkten mongoose web sitesine girerek hangi kodların ne işe yaradığını öğrenebiliz. <a href="https://mongoosejs.com/docs/guides.html">Mongoose web sitesi</a></p>
