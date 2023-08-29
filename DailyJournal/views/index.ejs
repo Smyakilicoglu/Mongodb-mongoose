@@ -1,0 +1,14 @@
+<%- include("particals/header.ejs") %>
+<html>
+<body>
+    <div class="container container-fluid">
+        <h3>HOME</h3>
+            <p><%= home %></p>
+        <% posts.forEach(post => { %>
+            <h3><%= post.title %></h3>
+            <p><%= post.content.substring(0, 100) %>...<a href="/posts/<%=post._id%>">Read More</a> </p> <%# 0 dan 100 e kadar oan kelimeleri gösterir. %>
+        <%}); %>
+    </div>
+</body>
+</html>
+<%- include("particals/footer.ejs") %>
